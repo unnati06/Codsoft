@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  .replay{
+    margin-top: 50vh;
+    border-radius: 50%;
+  }
